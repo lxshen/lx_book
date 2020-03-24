@@ -20,4 +20,8 @@
         * [2.2、Controller的使用](java/2、spring-boot/2.2、Controller的使用.md)
 * [Spring-Boot](Spring-Boot/README.md)
     * [1、第一天](Spring-Boot/1、第一天.md)
+    * [2、配置文件](Spring-Boot/2、配置文件.md)
+    * [3、激活指定profile](Spring-Boot/3、激活指定profile.md)
+    * [4、配置文件加载位置](Spring-Boot/4、配置文件加载位置.md)
+    * [5、日志文件](Spring-Boot/5、日志文件.md)
 
